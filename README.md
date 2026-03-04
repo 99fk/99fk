@@ -1,9 +1,3 @@
-# 🧰 Project Hub
-
-A curated collection of my HTML5 games and tools. Each project runs directly in the browser.
-
----
-
 ## 📦 Featured Tool
 
 ### 🔧 [Toolbox Deluxe](https://github.com/99fk/toolbox-deluxe)  
@@ -64,14 +58,4 @@ A modular container for web-based utilities – import, organize, and run tools 
 - 🎲 **[Yahtzee HTML](https://github.com/99fk/yahtzee-html)**  
   Classic Yahtzee in a single HTML file.
 
----
 
-## 📜 License
-
-All projects are open source and provided under the **GPL** license.  
-
----
-
-## ❤️ Credits
-
-Made with ☕ and a bit of help from ChatGPT.
